@@ -5,6 +5,7 @@
     echo "dit is weer een nieuwe regel code<hr>";
     echo "er is weer een nieuwe les<hr>";
     echo "test test test test<hr>";
+    echo "ik ga pushen";
 
     $tekst = new Text();
 
